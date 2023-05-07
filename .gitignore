@@ -12,7 +12,6 @@ node_modules
 dist
 dist-ssr
 *.local
-jest.config.js
 
 # Editor directories and files
 .vscode/*
